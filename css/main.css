@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Space Mono',;
+    font-family:'Roboto Mono',;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -18,7 +18,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Space Mono',;
+    font-family:'Roboto Mono',;
 }
 p {
     font-size: 1.5em;
