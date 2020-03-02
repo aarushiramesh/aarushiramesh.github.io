@@ -16,7 +16,7 @@ a {
 a:hover {
     
 }
-h1 {
+h1, h2 {
     font-size: 3em;
     font-family:'Roboto Mono','Prata';
 }
