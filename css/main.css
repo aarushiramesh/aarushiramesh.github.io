@@ -1,3 +1,9 @@
+.container {width:960px;
+      margin:0 auto;
+      padding:10px 25px;
+      border:5px solid LightPink;
+      background:#fff; 
+}
 body {
     margin: 60px auto;
     width: 70%;
