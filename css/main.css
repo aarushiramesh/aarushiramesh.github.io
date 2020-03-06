@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Roboto Mono','Prata';
+    font-family:'Spartan', sans-serif, 'Roboto Mono','Prata';
 }
 nav ul li, footer ul li {
     display: inline;
@@ -21,7 +21,7 @@ body{
 }
 h1{
     font-size: 3em;
-    font-family:'Cedarville Cursive','Roboto Mono','Prata';
+    font-family:'Spartan', sans-serif,'Cedarville Cursive','Roboto Mono','Prata';
 }
 h2{
     font-size:1.7em;
