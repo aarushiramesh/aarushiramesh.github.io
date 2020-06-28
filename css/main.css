@@ -4,6 +4,11 @@
       border:5px solid LightPink;
       background:#fff; 
 }
+.typing > *{
+  overflow: hidden;
+  white-space: nowrap;
+  animation: typingAnim 5s steps(50);
+}
 body {
     margin: 60px auto;
     width: 70%;
