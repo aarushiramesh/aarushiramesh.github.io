@@ -72,6 +72,14 @@ h2{
     font-size:1.7em;
     font-family:'Spartan', sans-serif,'Roboto Mono','Prata';
 }
+h3{
+    font-size:1.3em;
+    font-family:'Spartan', sans-serif,'Roboto Mono','Prata';
+}
+h4{
+    font-size:1.0em;
+    font-family:'Spartan', sans-serif,'Roboto Mono','Prata';
+}
 p {
     font-family:'Spartan';
     font-size: 1.6em;
